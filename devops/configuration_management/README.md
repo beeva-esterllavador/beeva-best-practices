@@ -123,7 +123,7 @@ More information
 The Amazon Web Services  JSON templates system for infrastructure deploying allows to deploy all type of resources, although Foreman will be used to deploy instances.
 
 More information
-[http://aws.amazon.com/es/cloudfront/] (http://aws.amazon.com/es/cloudfront/)
+[https://aws.amazon.com/es/cloudformation/] (https://aws.amazon.com/es/cloudformation/)
 
 ### Yafct
 Templates system based in YAML, JSON and Python for Foreman. It has been needed to modify the code, hosted in GitHub, to extend the functionality of the component and adapt it to the proposed standard.
